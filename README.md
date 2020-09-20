@@ -15,3 +15,26 @@ Use the following classes for the assignment
 .text-{color scheme}
 .container
 .offset-{number}
+
+
+Given code wireframe:
+
+<div>
+    <div>
+        <div>
+            <div>Header</div>
+        </div>
+    </div>
+    <div>
+        <div style="height:300px;">Aside</div>
+        <div>Main
+            <div style="height:400px;">
+                <div>Article</div>
+                <div>Article</div>
+            </div>
+        </div>
+    </div>
+    <div>
+        <div>Footer</div>
+    </div>
+</div>
